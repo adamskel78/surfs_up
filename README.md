@@ -1,1 +1,7 @@
 # surfs_up
+## Challenge
+After looking at the additional data, the outlook is still good for the surf shop in Oahu. Some key stats to look at in our analysis would be maximum temperature and minimunm temperature. If you look at the max temperature in June it is 85. The max temperature for December is 83. Those temperatures would be inviting to both surfers and ice cream lovers. The minimum temperature for December is 56. The minimum temperature for June is only 64. Those temps would not have been taken during the day so we know that it won't be to cold to sell ice cream all year.
+
+The average temperature for June is 74.9 and the average for December is 71. That is less than a 5 degree difference between summer and winter. It does rain more in December compared to June but the difference of .07 should not have much of an affect on peoples desire for surfing and ice cream. You also notice that we have good, accurate dat from our sources since our median and mean are so close in the temperature columns for both months.
+
+Some areas we could do some more analysis with this data would be to add more months to this type of analysis. I would recommend July, August, and January be added to the analysis. Those are all months were tourists would be traveling with more frequency. Also I would recommend running this analysis over the last 5 years to see how the climate was trending. I would be comforting if we saw a warming trend over the last 5 years because that would increase the chances of the ice cream side of the store would be a successs.
